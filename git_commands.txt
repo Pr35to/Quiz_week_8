@@ -2,3 +2,4 @@ git clone git clone https://github.com/Pr35to/Quiz_week_8.git
 cd Quiz_week_8
 git commit -m "Added script to load data from CSV and plot graphs"
 git push origin master
+git log > git_log.txt
