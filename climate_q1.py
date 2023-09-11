@@ -1,7 +1,7 @@
 import sqlite3
 import matplotlib.pyplot as plt
 
-conn = sqlite3.connect('climate_data.db')
+conn = sqlite3.connect('climate.db')
 
 cursor = conn.cursor()
 
